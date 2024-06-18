@@ -57,3 +57,7 @@ This customer segmentation analysis provides a comprehensive understanding of di
 * Matplotlib
 * Seaborn
 * Jupyter Notebook
+
+
+## License
+This project is licensed under the MIT License: see the [MIT License](https://github.com/paridhijain5/Portfolio/blob/main/LICENSE) file for details.
