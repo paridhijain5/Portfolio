@@ -22,20 +22,20 @@ A data analyst sits between the business and the data.
 * You are working as a Data Analyst at Accenture.
 * Your team has been assigned a new project for a client called Social Buzz.
 * One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz. She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project. Mae has shared the project brief so you can get up to speed on what Social Buzz need help with.
-* About Client: 
+* About Client: [Social Buzz](https://github.com/paridhijain5/Portfolio/blob/main/Accenture%20North%20America%20Data%20Analytics%20and%20Visualization%20Job%20Simulation/Social%20Buzz.pdf)
 
 Tasks for Accenture:
 * Client's Problem that needs to be addressed: Due to their rapid growth and digital nature of their core product, the amount of data that they created, collected is huge. They are still a small company and do not have the resources to manage the scale that they are currently at.
 * Three requirements that Accenture are tasked to fulfill: An audit of their big data practice, recommendations for a successful IPO, An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity.
 
 Accenture Project Team
-<img src = "">
+<img src = "Accenture North America Data Analytics and Visualization Job Simulation/Project Team.png">
 
 
 ## Task 2: Data Cleaning & Modeling
 
 * You have been sent 7 datasets and a data model. Often you won’t need all these datasets to find what you’re looking for.
-* So, the first step is to use this data model-- to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
+* So, the first step is to use this [data model](https://github.com/paridhijain5/Portfolio/blob/main/Accenture%20North%20America%20Data%20Analytics%20and%20Visualization%20Job%20Simulation/Data%20model.pdf) to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
 * As explained in the data model, popularity is quantified by the “Score” given to each reaction type.
 * We therefore need data showing the content ID, category, content type, reaction type, and reaction score.
 * So, to figure out popularity, we’ll have to add up which content categories have the largest score.
@@ -48,9 +48,9 @@ Clean the data by:
             - Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
 
 Your end result should be three cleaned data sets:
-* 
-* 
-* 
+* [ReactionTypes](https://github.com/paridhijain5/Portfolio/blob/main/Accenture%20North%20America%20Data%20Analytics%20and%20Visualization%20Job%20Simulation/ReactionTypes.xlsx)
+* [Reactions](https://github.com/paridhijain5/Portfolio/blob/main/Accenture%20North%20America%20Data%20Analytics%20and%20Visualization%20Job%20Simulation/Reactions.xlsx)
+* [Content](https://github.com/paridhijain5/Portfolio/blob/main/Accenture%20North%20America%20Data%20Analytics%20and%20Visualization%20Job%20Simulation/Content.xlsx)
 
 #### Data Modelling
 * Create a final data set by merging your three tables together
@@ -60,7 +60,7 @@ Your end result should be three cleaned data sets:
      - The top 5 categories
 
 #### Cleaned Dataset
-Here is the cleaned data set:
+Here is the cleaned data set: [Cleaned Dataset](https://github.com/paridhijain5/Portfolio/blob/main/Accenture%20North%20America%20Data%20Analytics%20and%20Visualization%20Job%20Simulation/Cleaned%20dataset.csv)
 
 
 ## Task 3: Data Visualization & Storytelling
@@ -75,7 +75,8 @@ Here is the cleaned data set:
     - Process - How did you complete your analysis?
     - For insights, charts Included:
     - Conclusion
- 
+
+ #### Presentation: [Powerpoint Presentation](https://github.com/paridhijain5/Portfolio/blob/main/Accenture%20North%20America%20Data%20Analytics%20and%20Visualization%20Job%20Simulation/Powerpoint%20Presentation.pptx)
 
 ## Task 4: Present to the Client
 Record a <10 minute video of your presentation to your client and internal team members and deliver the insights of your analysis
