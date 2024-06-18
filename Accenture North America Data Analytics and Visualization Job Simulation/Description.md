@@ -28,8 +28,7 @@ Tasks for Accenture:
 * Client's Problem that needs to be addressed: Due to their rapid growth and digital nature of their core product, the amount of data that they created, collected is huge. They are still a small company and do not have the resources to manage the scale that they are currently at.
 * Three requirements that Accenture are tasked to fulfill: An audit of their big data practice, recommendations for a successful IPO, An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity.
 
-Accenture Project Team
-<img src = "Accenture North America Data Analytics and Visualization Job Simulation/Project Team.png">
+[Accenture Project Team](https://github.com/paridhijain5/Portfolio/blob/main/Accenture%20North%20America%20Data%20Analytics%20and%20Visualization%20Job%20Simulation/Project%20Team.png)
 
 
 ## Task 2: Data Cleaning & Modeling
@@ -78,8 +77,10 @@ Here is the cleaned data set: [Cleaned Dataset](https://github.com/paridhijain5/
 
  #### Presentation: [Powerpoint Presentation](https://github.com/paridhijain5/Portfolio/blob/main/Accenture%20North%20America%20Data%20Analytics%20and%20Visualization%20Job%20Simulation/Powerpoint%20Presentation.pptx)
 
+
 ## Task 4: Present to the Client
 Record a <10 minute video of your presentation to your client and internal team members and deliver the insights of your analysis
 
 
 ## Certficate
+[Completion Certficate](https://github.com/paridhijain5/Portfolio/blob/main/Accenture%20North%20America%20Data%20Analytics%20and%20Visualization%20Job%20Simulation/Completion%20Certificate.pdf)
