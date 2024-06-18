@@ -87,3 +87,4 @@ Record a <10 minute video of your presentation to your client and internal team 
 
 
 ## License
+This project is licensed under the MIT License: See the [MIT License](https://github.com/paridhijain5/Portfolio/blob/main/LICENSE) file for details.
