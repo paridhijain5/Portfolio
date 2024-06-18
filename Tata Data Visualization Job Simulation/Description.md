@@ -109,7 +109,7 @@ You do not need to submit your script or talking points for this deliverable.
 
 
 ## Certficate
-Here is the 
+Here is the [Certificate of Completion](https://github.com/paridhijain5/Portfolio/blob/main/Tata%20Data%20Visualization%20Job%20Simulation/Certificate%20of%20Completion.pdf)
 
 
 ## License
