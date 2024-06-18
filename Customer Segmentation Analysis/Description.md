@@ -42,10 +42,9 @@ The dataset contains 200 records with 5 features, providing a comprehensive view
 * Identified characteristics and behaviors of each segment, providing actionable recommendations for business strategies.
 
 ## Results
-Cluster 1: High-spending customers with frequent purchases, representing the most valuable segment.
-Cluster 2: Price-sensitive, low-spending, infrequent buyers, indicating a need for cost-effective promotional strategies.
-Cluster 3: Moderate spenders with high loyalty, suggesting opportunities for upselling and retention programs.
-Impact: Implemented personalized marketing strategies, resulting in a 20% increase in sales conversion rates.
+* The analysis identified five distinct customer segments based on income and spending behavior.
+* Cluster 3, comprising high-income customers with high spending scores, emerged as the most valuable segment, accounting for 25% of the customer base.
+* Cluster 1, representing low-income customers with low spending scores, constituted 20% of the customer base and presents an opportunity for targeted marketing efforts.
 
 ## Conclusion
 This customer segmentation analysis provides a comprehensive understanding of different customer groups within the dataset. The insights gained can help businesses tailor their marketing efforts, improve customer satisfaction, and make informed strategic decisions. By implementing personalized marketing strategies based on these segments, businesses can significantly enhance their sales conversion rates.
