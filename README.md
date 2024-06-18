@@ -12,7 +12,7 @@ Explore my data analyst portfolio showcasing projects in data manipulatisuon, vi
 - Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
 - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
 
-3. [Tata Group's Data Visualisation: Empowering Business with Effective Insights on Forage](
+3. [Tata Group's Data Visualisation: Empowering Business with Effective Insights on Forage](https://github.com/paridhijain5/Portfolio/tree/main/Tata%20Data%20Visualization%20Job%20Simulation)
 - Completed a simulation involving creating data visualizations for Tata Consultancy Services
 - Prepared questions for a meeting with client senior leadership
 - Created visuals for data analysis to help executives with effective decision making
