@@ -29,7 +29,7 @@ To prepare for your meeting, you need to draft questions that you think will be 
 
 For this task, you are only required to draft the questions. Make sure to think both quantitatively and qualitatively.
 
-You’ve been provided a dataset-- in the resources below to use as the basis for your exploration. Review this data, taking note of what information has been provided, what insights you can garner, and what is relevant to both the CEO and CMO respectively.
+You’ve been provided a [Online Retail dataset](https://github.com/paridhijain5/Portfolio/blob/main/Tata%20Data%20Visualization%20Job%20Simulation/Online%20Retail%20Data%20Set.xlsx) in the resources below to use as the basis for your exploration. Review this data, taking note of what information has been provided, what insights you can garner, and what is relevant to both the CEO and CMO respectively.
 
 Create a set of four questions that you anticipate each business leader will ask and want to know the answers to. Make sure you differentiate your questions, as both the CEO and CMO view business decisions through different lenses.
 
@@ -48,7 +48,7 @@ In this task, you will be required to read the questions carefully and understan
 
 You will be provided resources on how to select visuals based on the different scenarios, these are available in the resources below. These resources will help you get an idea on which visual to select for the given business scenario and will also guide you on how to choose the right chart or graph for your data. Each question will contain a unique scenario and you will be expected to answer the questions based on that scenario.
 
-To complete this task, answer the multiple-choice quiz. Please note there are 5 multiple choice questions to complete in this task--
+To complete this task, answer the multiple-choice quiz. Please note there are 5 multiple choice questions to complete in this task : [Quiz Questions](https://github.com/paridhijain5/Portfolio/blob/main/Tata%20Data%20Visualization%20Job%20Simulation/QUIZ%20QUESTIONS.docx)
 
 
 ## Task 3: Creating Effective Visuals
@@ -71,7 +71,7 @@ Please note that in order to apply the checks that have been mentioned above, yo
 Create each visual on a separate tab with the name of the tab displaying the question number. Once the visuals are created, save the files and upload them below. 
 For Tableau users, you would need to upload in .twbx format whereas Power BI files need to be saved in .pbix format. 
 
-Should you get stuck, please reference the Visuals Hints document--
+Should you get stuck, please reference the Visuals Hints document: [Visual Hints](https://github.com/paridhijain5/Portfolio/blob/main/Tata%20Data%20Visualization%20Job%20Simulation/Visuals%20Hints.pdf)
 
 * **Question 1**
 The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
@@ -107,6 +107,13 @@ Remember, this is not just a read out of your visuals, you’re presenting to th
 
 You do not need to submit your script or talking points for this deliverable.
 
-**Here are some resources to help you--
+
+## Certficate
+Here is the 
+
+
+## License
+The project is licensed under the MIT license: see the [MIT License](https://github.com/paridhijain5/Portfolio/blob/main/LICENSE) file details here.
+
 
 
