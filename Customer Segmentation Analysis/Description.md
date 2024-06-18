@@ -62,4 +62,4 @@ This customer segmentation analysis provides a comprehensive understanding of di
 ## Author
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [MIT LICENSE](LICENSE) file for details.
