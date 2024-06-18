@@ -83,7 +83,7 @@ Record a <10 minute video of your presentation to your client and internal team 
 
 
 ## Certficate
-[Certficate of Completion](https://github.com/paridhijain5/Portfolio/blob/main/Accenture%20North%20America%20Data%20Analytics%20and%20Visualization%20Job%20Simulation/Completion%20Certificate.pdf)
+Here is the [Certficate of Completion](https://github.com/paridhijain5/Portfolio/blob/main/Accenture%20North%20America%20Data%20Analytics%20and%20Visualization%20Job%20Simulation/Completion%20Certificate.pdf)
 
 
 ## License
