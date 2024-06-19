@@ -27,6 +27,13 @@ Explore my data analyst portfolio showcasing projects in data manipulatisuon, vi
 - Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
 
 
+5. [BCG's Data Science Job Simulation on Forage](https://github.com/paridhijain5/Portfolio/tree/main/BCG%20GAMMA%20Data%20Science%20Job%20Simulation)
+- Completed a customer churn analysis simulation for XYZ Analytics, demonstrating advanced data analytics skills, identifying essential client data and outlining a strategic investigation approach.
+- Conducted efficient data analysis using Python, including Pandas and NumPy. Employed data visualization techniques for insightful trend interpretation.
+- Completed the engineering and optimization of a random forest model, achieving an 85% accuracy rate in predicting customer churn.
+- Completed a concise executive summary for the Associate Director, delivering actionable insights for informed decision-making based on the analysis.
+
+
 
 ## License
 These projects are licensed under the MIT License - see the [MIT LICENSE](LICENSE) file for details.
