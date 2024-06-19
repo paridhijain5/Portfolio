@@ -36,7 +36,7 @@ In this project, we'll use the fictional Mint Classics relational database and a
 You will be using MySQL Workbench outside of Coursera -  in your own environment. Before beginning the project, you must have MySQL Workbench installed, configured, launched and connected to a local MySQL server instance. 
 
 For your reference and use in analysis, the EER (Extended Entity-Relationship) diagram that models the structure of the Mint Classics database is provided here.
-![EER Diagram]("https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/jBRNreo5Sh-41b3l0jBkCw_c3a54862d56945659bdb44bc07a368f1_MintClassicsDataModel.png?expiry=1718928000000&hmac=2Wh_xdNQVZQkXCg1coRO8Td3Ws2JMwkJIVp8v-eHEKM")
+![EER Diagram](https://github.com/paridhijain5/Portfolio/blob/main/Analyze%20Data%20in%20a%20Model%20Car%20Database%20with%20MySql%20Workbench/jBRNreo5Sh-41b3l0jBkCw_c3a54862d56945659bdb44bc07a368f1_MintClassicsDataModel.png)
 
 
 ### Check Your Work
@@ -66,10 +66,10 @@ Here's a checklist for generating an exceptional SQL-based data analysis project
 ## Results
 
 **SQL Scripts:**
-* [EDA]()
-* [Business Questions]
+* [EDA](https://github.com/paridhijain5/Portfolio/blob/main/Analyze%20Data%20in%20a%20Model%20Car%20Database%20with%20MySql%20Workbench/EDA.sql)
+* [Business Questions](https://github.com/paridhijain5/Portfolio/blob/main/Analyze%20Data%20in%20a%20Model%20Car%20Database%20with%20MySql%20Workbench/Business%20Questions.sql)
 
-**Python Notebook**: [EDA on Mintclassics]()
+**Python Notebook**: [EDA on Mintclassics](https://github.com/paridhijain5/Portfolio/blob/main/Analyze%20Data%20in%20a%20Model%20Car%20Database%20with%20MySql%20Workbench/EDA%20on%20Mintclassics.ipynb)
 
 
 
