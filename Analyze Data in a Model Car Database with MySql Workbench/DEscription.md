@@ -74,5 +74,5 @@ Here's a checklist for generating an exceptional SQL-based data analysis project
 
 
 ## License
-
+This project is licensed under the MIT License: see the [MIT License](https://github.com/paridhijain5/Portfolio/blob/main/LICENSE) file details here.
 
