@@ -36,11 +36,10 @@ Explore my data analyst portfolio showcasing projects in data manipulatisuon, vi
 
 6. [Analyze Data in a Model Car Database with MySql Workbench on Coursera](https://github.com/paridhijain5/Portfolio/tree/main/Analyze%20Data%20in%20a%20Model%20Car%20Database%20with%20MySql%20Workbench)
 - Description: This project involved comprehensive exploratory data analysis (EDA) on the Mint Classics dataset to derive valuable business insights. Key areas of focus included customer behavior, product sales trends, and warehouse performance.
-- Key Insights:
-1. Top Customers and Products: Identified highest lifetime value customers and their most purchased products, helping tailor marketing strategies.
-2. Seasonal Trends: Noted significant sales peaks in specific months, guiding inventory management for peak seasons.
-3. Warehouse Efficiency: Highlighted fulfillment delays, especially in Warehouse D, leading to recommendations for operational improvements.
-4. Fulfillment Times: Evaluated and compared average fulfillment times across warehouses, identifying areas needing efficiency boosts.
+- Key Insights: 1. Top Customers and Products: Identified highest lifetime value customers and their most purchased products, helping tailor marketing strategies.
+                2. Seasonal Trends: Noted significant sales peaks in specific months, guiding inventory management for peak seasons.
+                3. Warehouse Efficiency: Highlighted fulfillment delays, especially in Warehouse D, leading to recommendations for operational improvements.
+                4. Fulfillment Times: Evaluated and compared average fulfillment times across warehouses, identifying areas needing efficiency boosts.
 
 
 
