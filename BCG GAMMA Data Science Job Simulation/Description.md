@@ -57,7 +57,10 @@ After reviewing your project plan, the AD would like you lead on the Data Scienc
 
 The AD would like you to investigate whether price sensitivity is the most influential factor for a customer churning, and if not, to what extent does price sensitivity influence churn.
 
-The client has sent over 2 datasets and it your responsibility to perform some exploratory data analysis.
+The client has sent over 2 datasets and it your responsibility to perform some exploratory data analysis:
+* [Client Dataset](https://github.com/paridhijain5/Portfolio/blob/main/BCG%20GAMMA%20Data%20Science%20Job%20Simulation/client_data.csv)
+* [Price Dataset](https://github.com/paridhijain5/Portfolio/blob/main/BCG%20GAMMA%20Data%20Science%20Job%20Simulation/price_data.csv)
+* [Data Description](https://github.com/paridhijain5/Portfolio/blob/main/BCG%20GAMMA%20Data%20Science%20Job%20Simulation/Data%20Description.pdf)
 
 In this step, you'll need to analyse client data sets using Python and upload your work as a Jupyter notebook.
 
@@ -71,6 +74,7 @@ You need to analyze the following using Python:
 * Descriptive statistics of the dataset
 * Distributions of columns
 
+**Here is the Jupyter Notebook:** [Exploratory Data Analysis](https://github.com/paridhijain5/Portfolio/blob/main/BCG%20GAMMA%20Data%20Science%20Job%20Simulation/EDA%20for%20PowerCo.ipynb)
 
 ## Task 3: Feature Engineering & Modelling
 
@@ -80,7 +84,7 @@ Estelle reviewed your work with the AD and Estelle has come up with an idea to e
 
 As the Data Scientist on the team, you need to investigate this question. So, in this task you’ll be responsible for completing feature eingeering for the dataset.
 
-Estelle has done some further cleaning of the data and provided you with a new CSV file to complete our work from named “clean_data_after_eda.csv”. Be sure to use this data for your work on this task.--
+Estelle has done some further cleaning of the data and provided you with a new CSV file to complete our work from named [clean_data_after_eda](https://github.com/paridhijain5/Portfolio/blob/main/BCG%20GAMMA%20Data%20Science%20Job%20Simulation/clean_data_after_eda.csv) . Be sure to use this data for your work on this task.
 
 Your task is to create new features for your analysis and upload your completed python file.
 
@@ -100,6 +104,7 @@ As before, a good way to quickly learn how to effectively feature engineer is to
   * Finally - can we combine these datasets and if so, how?
     To combine datasets, you need a column that features in both datasets that share the same values to join them on.
 
+**Here is the Jupyter Notebook:** [Feature Engineering](https://github.com/paridhijain5/Portfolio/blob/main/BCG%20GAMMA%20Data%20Science%20Job%20Simulation/Feature%20Engineering.ipynb)
 
 ## Task 4: Findings & Recommendations
 
@@ -111,12 +116,14 @@ It is your task to:
 * Train a random forest classifier to predict churn
 * Evaluate the predictions using evaluation metrics to demonstrate how accurately the model has performed
 
-Furthermore after the previous task of feature engineering, Estelle conducted a further review and has provided you with a final dataset to use this for this task, named “data_for_predictions.csv”. Be sure to use this dataset for this task.--
+Furthermore after the previous task of feature engineering, Estelle conducted a further review and has provided you with a final dataset to use this for this task, named [data_for_predictions](https://github.com/paridhijain5/Portfolio/blob/main/BCG%20GAMMA%20Data%20Science%20Job%20Simulation/data_for_predictions.csv). Be sure to use this dataset for this task.--
 
 The outputs of your work will be shared with the AD and Estelle has given you a few points to include within the notebook:
 * Why did you choose the evaluation metrics that you used? Please elaborate on your choices.
 * Do you think that the model performance is satisfactory? Give justification for your answer.
 * Make sure that your work is presented clearly with comments and explanations
+
+**Here is the Jupyter Notebook:** [Modeling](https://github.com/paridhijain5/Portfolio/blob/main/BCG%20GAMMA%20Data%20Science%20Job%20Simulation/Modeling.ipynb)
 
 #### Finally, let's create a quick summary for the client
 Before we finish up, the client wants a quick update on the project progress. Your AD wants you to draft an abstract (executive summary) of your findings so far.
@@ -135,9 +142,12 @@ If you are stuck:
 * What do you think the client wants to hear? How much detail should you go into, especially with the technical details of your work? 
 * Always test what you write with the “so what?” test, i.e. sharing a fact, even an interesting one, only matters if the client can actually do something useful with it. E.g. 60% of your customers are from City A is pointless, but customers in City A should be prioritized for giving discount as they are among your most valuable ones, if true, is an actionable finding.
 
+**Here is the** [Executive Summary](https://github.com/paridhijain5/Portfolio/blob/main/BCG%20GAMMA%20Data%20Science%20Job%20Simulation/Executive%20Summary.pptx)
+
+
 
 ## Certficate
-
+Here is the [Certficate of Completion](https://github.com/paridhijain5/Portfolio/blob/main/BCG%20GAMMA%20Data%20Science%20Job%20Simulation/Certificate%20of%20Completion.pdf)
 
 ## License
-
+This project is licensed under the MIT License: see the [MIT License](https://github.com/paridhijain5/Portfolio/blob/main/LICENSE) file details here.
