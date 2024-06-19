@@ -28,9 +28,11 @@ Next, respond to the self-reflection question by filling out the provided text f
 Giulia is your manager and helps you through your upskilling journey in PowerBI - your step to become a true data jedi and Digital Accelerator. But wait no more, word spreads fast and an important client reached out to you to help him visualising their data. 
 
 #### Here is the task:
-It’s omnipresent: telecom marketing. Better price here. Better service there. Best for small businesses here. Best for young urbanites there. But what do customers really want? Our client, a big telecom company needs to know. This email just arrived for you:--
+It’s omnipresent: telecom marketing. Better price here. Better service there. Best for small businesses here. Best for young urbanites there. But what do customers really want? Our client, a big telecom company needs to know. This [Email](https://github.com/paridhijain5/Portfolio/blob/main/Pwc%20Power%20BI%20Job%20Simulation/Request%20Email.png) just arrived for you.
 
 Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative! 
+
+Here is the [Call Center Dataset](https://github.com/paridhijain5/Portfolio/blob/main/Pwc%20Power%20BI%20Job%20Simulation/01%20Call-Center-Dataset.xlsx)
 
 Possible KPIs include (to get you started, but not limited to):
 * Overall customer satisfaction
@@ -38,6 +40,8 @@ Possible KPIs include (to get you started, but not limited to):
 * Calls by time
 * Average speed of answer
 * Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+
+Here is the live interactive [Call Center Dashboard](https://github.com/paridhijain5/Portfolio/blob/main/Pwc%20Power%20BI%20Job%20Simulation/Call%20Center%20Performance%20Dashboard.pbix)
 
 
 ## Task 3: Customer Retention
@@ -52,14 +56,17 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 * We  have done customer analysis with Excel: it has always ended in a dead-end
 * We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management
 
-The Retentions Manager has provided some information in the resources.
---
+The Retentions Manager has provided some information in the resources:
+* [Churn Datset](https://github.com/paridhijain5/Portfolio/blob/main/Pwc%20Power%20BI%20Job%20Simulation/02%20Churn-Dataset.xlsx)
+* [PhoneNow Inputs](https://github.com/paridhijain5/Portfolio/blob/main/Pwc%20Power%20BI%20Job%20Simulation/PhoneNow%20inputs.pdf) 
 
 ## Here is the task:
 Your colleague, the engagement partner, asks you to do the following tasks:
 * Define proper KPIs
 * Create a dashboard for the retention manager reflecting the KPIs
 * Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed
+
+Here is the live interactive [Customer Retention Dashboard](https://github.com/paridhijain5/Portfolio/blob/main/Pwc%20Power%20BI%20Job%20Simulation/Customer%20Retention%20and%20Analysis.pbix)
 
 
 ## Task 4: Diversity & Inclusion
@@ -74,9 +81,9 @@ Why is this so?
 Think about the importance of strategy, awareness and education, analytics and inspiration. 
 
 Here is a hint: Calculating the following measures could help to define proper KPIs:
-* # of men
-* # of women
-* # of leavers
+* number of men
+* number of women
+* number of leavers
 * % employees promoted (FY21)
 * % of women promoted
 * % of hires men
@@ -85,16 +92,19 @@ Here is a hint: Calculating the following measures could help to define proper K
 * Average performance rating: men
 * Average Performance rating: women
 
+Here is the [Diversity Inclusion Dataset](https://github.com/paridhijain5/Portfolio/blob/main/Pwc%20Power%20BI%20Job%20Simulation/03%20Diversity-Inclusion-Dataset.xlsx)
+
 #### Here is the task:
 Your task is to do the following:
 * Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
 * Write what you think some root causes of their slow progress might be
 
+Here is the live interactive [Workforce Diversity Dashboard](https://github.com/paridhijain5/Portfolio/blob/main/Pwc%20Power%20BI%20Job%20Simulation/Workforce%20Diversity.pbix)
 
 
 ## Certificate
-
+Here is the [Certficate of Completion](https://github.com/paridhijain5/Portfolio/blob/main/Pwc%20Power%20BI%20Job%20Simulation/Certificate%20of%20completion.pdf)
 
 
 ## License
-
+This Project is licensed under the MIT License: see the [MIT License](https://github.com/paridhijain5/Portfolio/blob/main/LICENSE) file details here.
