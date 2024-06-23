@@ -36,10 +36,27 @@ Explore my data analyst portfolio showcasing projects in data manipulatisuon, vi
 
 6. [Analyze Data in a Model Car Database with MySql Workbench on Coursera](https://github.com/paridhijain5/Portfolio/tree/main/Analyze%20Data%20in%20a%20Model%20Car%20Database%20with%20MySql%20Workbench)
 - Description: This project involved comprehensive exploratory data analysis (EDA) on the Mint Classics dataset to derive valuable business insights. Key areas of focus included customer behavior, product sales trends, and warehouse performance.
-- Key Insights: 1. Top Customers and Products: Identified highest lifetime value customers and their most purchased products, helping tailor marketing strategies.
-                2. Seasonal Trends: Noted significant sales peaks in specific months, guiding inventory management for peak seasons.
-                3. Warehouse Efficiency: Highlighted fulfillment delays, especially in Warehouse D, leading to recommendations for operational improvements.
-                4. Fulfillment Times: Evaluated and compared average fulfillment times across warehouses, identifying areas needing efficiency boosts.
+- Key Insights:
+  1) Top Customers and Products: Identified highest lifetime value customers and their most purchased products, helping tailor marketing strategies.
+  2) Seasonal Trends: Noted significant sales peaks in specific months, guiding inventory management for peak seasons.
+  3) Warehouse Efficiency: Highlighted fulfillment delays, especially in Warehouse D, leading to recommendations for operational improvements.
+  4) Fulfillment Times: Evaluated and compared average fulfillment times across warehouses, identifying areas needing efficiency boosts.
+
+
+7. [Data Science Challenge on Coursera](https://hub.labs.coursera.org:443/connect/sharedvzjlxbjb?forceRefresh=false&path=%2Fnotebooks%2FChurnPrediction.ipynb&isLabVersioning=file-prep)
+- Description: Developed a machine learning model to predict subscriber churn for a video streaming service.
+- Results:
+  1) Preprocessed data, engineered features, and scaled numerical values.
+  2) Trained a RandomForest model with RandomizedSearchCV, achieving a ROC AUC score of 0.7302.
+  3) Predicted churn probabilities for test data and prepared the submission file
+
+
+8. [Data Science Coding Challenge: Loan Default Prediction on Coursera](https://hub.labs.coursera.org:443/connect/sharedpqigtarq?forceRefresh=false&path=%2Fnotebooks%2FLoanDefaultPrediction.ipynb&isLabVersioning=file-prep)
+- Description: Developed a machine learning model to predict loan defaults using historical financial data. Preprocessed data, engineered features, and trained models to optimize predictions.
+- Results:
+  1) Data Processing: Handled missing values, encoded 10+ categorical features, and scaled 20+ numerical features.
+  2) Model Performance: Trained Random Forest classifier with 100 trees, achieving an ROC AUC score of 0.85 on the validation set.
+  3) Predictions: Generated default probabilities for 109,435 loans in the test set, aiding precise financial decision-making.
 
 
 
