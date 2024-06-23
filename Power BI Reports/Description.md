@@ -1,0 +1,1 @@
+This folder contains a collection of Power BI dashboards and reports showcasing my data visualization and analytical skills. Each report demonstrates my ability to transform raw data into actionable insights using Power BI's powerful features and tools.
