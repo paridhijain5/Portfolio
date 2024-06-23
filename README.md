@@ -60,13 +60,13 @@ Explore my data analyst portfolio showcasing projects in data manipulatisuon, vi
 
 
 9. [Power BI Report- Employee Data Analytics Dashboard](https://github.com/paridhijain5/Portfolio/tree/main/Power%20BI%20Reports/Employee%20Data%20Analytics%20Dashboard)
-1) Employee Demographics: Provides insights into workforce composition through visualizations of gender, age, ethnicity, education levels, department distribution, tenure, and geographic distribution.
-2) Compensation Analysis: Examines financial aspects of employee compensation, including total and monthly compensation, department-wise compensation breakdown, bonus distribution, and average annual salaries by department.
-3) Key Insights: Highlights include:
-   * Human Resources has the highest average salary (125,217.73).
-   * Accounting accounts for the highest bonus percentage (17.06%).
-   * Total compensation paid to employees is 109.32M.
-4) Interactive Features: Includes filters for detailed analysis by demographics and regions, enhancing the ability to drill down into specific data points.
+- Employee Demographics: Provides insights into workforce composition through visualizations of gender, age, ethnicity, education levels, department distribution, tenure, and geographic distribution.
+-  Compensation Analysis: Examines financial aspects of employee compensation, including total and monthly compensation, department-wise compensation breakdown, bonus distribution, and average annual salaries by department.
+- Key Insights: Highlights include:
+   1) Human Resources has the highest average salary (125,217.73).
+   2) Accounting accounts for the highest bonus percentage (17.06%).
+   3) Total compensation paid to employees is 109.32M.
+- Interactive Features: Includes filters for detailed analysis by demographics and regions, enhancing the ability to drill down into specific data points.
 
 
 
