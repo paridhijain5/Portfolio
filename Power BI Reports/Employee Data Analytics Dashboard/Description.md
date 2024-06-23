@@ -1,11 +1,13 @@
 # Employee Data Analytics Dashboard
 
-The "Employee Data Analytics" dashboard provides a comprehensive analysis of employee demographics and compensation within a company. The dashboard is divided into two main sections: "Employee Demographics" and "Compensation Analysis." Each section offers insights into different aspects of the workforce, leveraging visualizations to present data clearly and effectively.
+The ["Employee Data Analytics" dashboard](https://github.com/paridhijain5/Portfolio/blob/main/Power%20BI%20Reports/Employee%20Data%20Analytics%20Dashboard/Employee%20Data%20Analytics%20Dashboard.pbix) provides a comprehensive analysis of employee demographics and compensation within a company. The dashboard is divided into two main sections: "Employee Demographics" and "Compensation Analysis." Each section offers insights into different aspects of the workforce, leveraging visualizations to present data clearly and effectively.
 
 
 
 ## 1. Employee Demographics
 This section of the dashboard focuses on understanding the composition of the workforce through various demographic lenses.
+
+[Employee Demographics Dashboard image](https://github.com/paridhijain5/Portfolio/blob/main/Power%20BI%20Reports/Employee%20Data%20Analytics%20Dashboard/Employee%20Demographics.png)
 
 ### Key Visualizations and Metrics:
 * Gender Distribution: A bar chart that shows the number of male and female employees, providing a clear view of gender diversity.
@@ -23,6 +25,8 @@ This section of the dashboard focuses on understanding the composition of the wo
 
 ## 2. Compensation Analysis
 This section delves into the financial aspects of employee compensation, providing insights into salaries, bonuses, and overall compensation.
+
+[Compensation Analysis Dashboard image](https://github.com/paridhijain5/Portfolio/blob/main/Power%20BI%20Reports/Employee%20Data%20Analytics%20Dashboard/Compensation%20Analysis.png)
 
 ### Key Visualizations and Metrics:
 * Total Compensation: A large metric displaying the total compensation paid to employees, amounting to 109.32M.
@@ -42,7 +46,7 @@ This section delves into the financial aspects of employee compensation, providi
 
 
 ## Dataset Explanation
-The dataset powering this dashboard likely includes the following key fields:
+The [Employee Dataset](https://github.com/paridhijain5/Portfolio/blob/main/Power%20BI%20Reports/Employee%20Data%20Analytics%20Dashboard/Employee%20Data%20(sample).xlsx) powering this dashboard likely includes the following key fields:
 
 * Employee ID: Unique identifier for each employee.
 * Gender: Employee's gender (e.g., Male, Female).
@@ -61,4 +65,4 @@ This dataset enables the creation of visualizations that provide insights into d
 
 
 ## License
-This project is licensed under the MIT License: see the [MIT License]( file details here.
+This project is licensed under the MIT License: see the [MIT License](https://github.com/paridhijain5/Portfolio/blob/main/LICENSE) file details here.
