@@ -4,10 +4,9 @@ The ["Employee Data Analytics" dashboard](https://github.com/paridhijain5/Portfo
 
 
 
-## 1. Employee Demographics
-This section of the dashboard focuses on understanding the composition of the workforce through various demographic lenses.
+## 1. Employee Demographics - [image](https://github.com/paridhijain5/Portfolio/blob/main/Power%20BI%20Reports/Employee%20Data%20Analytics%20Dashboard/Employee%20Demographics.png)
 
-[Employee Demographics Dashboard image](https://github.com/paridhijain5/Portfolio/blob/main/Power%20BI%20Reports/Employee%20Data%20Analytics%20Dashboard/Employee%20Demographics.png)
+This section of the dashboard focuses on understanding the composition of the workforce through various demographic lenses.
 
 ### Key Visualizations and Metrics:
 * Gender Distribution: A bar chart that shows the number of male and female employees, providing a clear view of gender diversity.
@@ -23,10 +22,8 @@ This section of the dashboard focuses on understanding the composition of the wo
 * Filters to drill down into specific demographics, such as department, age group, or education level, enabling a detailed analysis of the workforce.
 
 
-## 2. Compensation Analysis
+## 2. Compensation Analysis - [image](https://github.com/paridhijain5/Portfolio/blob/main/Power%20BI%20Reports/Employee%20Data%20Analytics%20Dashboard/Compensation%20Analysis.png)
 This section delves into the financial aspects of employee compensation, providing insights into salaries, bonuses, and overall compensation.
-
-[Compensation Analysis Dashboard image](https://github.com/paridhijain5/Portfolio/blob/main/Power%20BI%20Reports/Employee%20Data%20Analytics%20Dashboard/Compensation%20Analysis.png)
 
 ### Key Visualizations and Metrics:
 * Total Compensation: A large metric displaying the total compensation paid to employees, amounting to 109.32M.
