@@ -1,9 +1,9 @@
 # Walmart Analysis Dashboard
 
-The [Walmart Analysis Dashboard] provides a comprehensive analysis of sales, profitability, and inventory management. It is designed to offer key insights into various aspects of Walmart's business operations, enabling informed decision-making and strategic planning. The dashboard is segmented into three main sections: Sales Overview, Profitability Analysis, and Inventory Management.
+The [Walmart Analysis Dashboard](https://github.com/paridhijain5/Portfolio/blob/main/Power%20BI%20Reports/Walmart%20Analysis%20Dashboard/Walmart%20Analysis%20Dashboard.pbix) provides a comprehensive analysis of sales, profitability, and inventory management. It is designed to offer key insights into various aspects of Walmart's business operations, enabling informed decision-making and strategic planning. The dashboard is segmented into three main sections: Sales Overview, Profitability Analysis, and Inventory Management.
 
 
-### Sales Overview
+### Sales Overview - [image](https://github.com/paridhijain5/Portfolio/blob/main/Power%20BI%20Reports/Walmart%20Analysis%20Dashboard/Sales%20overview.png)
 
 * Total Sales: Displays the overall sales figures, helping to understand the total revenue generated.
 * Average Order Value: Shows the average value of each customer order.
@@ -15,7 +15,7 @@ The [Walmart Analysis Dashboard] provides a comprehensive analysis of sales, pro
 * Sales by Product Name: Lists top products by sales figures.
 * **Insights:** Summarizes key trends and notable statistics, such as highest sales by category and significant increases in sales.
 
-### Profitability Analysis
+### Profitability Analysis - [image](https://github.com/paridhijain5/Portfolio/blob/main/Power%20BI%20Reports/Walmart%20Analysis%20Dashboard/Profitibility%20Analysis.png)
 
 * Total Profit: Displays the total profit generated.
 * Average Profit per Order: Shows the average profit margin per order.
@@ -27,7 +27,7 @@ The [Walmart Analysis Dashboard] provides a comprehensive analysis of sales, pro
 * Profit by Product Name (Top 10): Lists top products by profit figures.
 * **Insights:** Highlights key profitability metrics, such as the highest and lowest profit months, and notable trends.
 
-### Inventory Management
+### Inventory Management - [image](https://github.com/paridhijain5/Portfolio/blob/main/Power%20BI%20Reports/Walmart%20Analysis%20Dashboard/Inventory%20Management.png)
 
 * Sum of Quantity: Displays the total quantity of products in inventory.
 * Number of Products: Shows the total number of different products managed.
@@ -40,7 +40,7 @@ The [Walmart Analysis Dashboard] provides a comprehensive analysis of sales, pro
 
 
 ## Dataset Description
-The dataset used for this dashboard contains the following fields:
+The [walmart dataset](https://github.com/paridhijain5/Portfolio/blob/main/Power%20BI%20Reports/Walmart%20Analysis%20Dashboard/Walmart%20(Sample).xlsx) used for this dashboard contains the following fields:
    * Order ID: Unique identifier for each order.
    * Order Date: The date when the order was placed.
    * Ship Date: The date when the order was shipped.
@@ -61,4 +61,6 @@ The Walmart Power BI Dashboard provides a detailed and comprehensive analysis of
 
 
 ## License
-
+This project is licensed under the MIT License- see the [MIT License](
+https://github.com/paridhijain5/Portfolio/blob/main/LICENSE
+) file details here.
