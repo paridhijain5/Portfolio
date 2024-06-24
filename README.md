@@ -69,6 +69,20 @@ Explore my data analyst portfolio showcasing projects in data manipulatisuon, vi
 - Interactive Features: Includes filters for detailed analysis by demographics and regions, enhancing the ability to drill down into specific data points.
 
 
+10. [Power BI Report- Walmart Analysis Dashboard](https://github.com/paridhijain5/Portfolio/tree/main/Power%20BI%20Reports/Walmart%20Analysis%20Dashboard)
+- Comprehensive Sales Insights:
+    * Displays total sales, average order value, and sales growth.
+    * Visualizes sales distribution by state and trends over time, highlighting key categories and top-selling products.
+- Detailed Profitability Analysis:
+    * Shows total profit, average profit per order, and profit trends over time.
+    * Highlights profits by state, city, product category, and top products, providing insights into high and low-performing areas.
+- Effective Inventory Management:
+    * Tracks total inventory quantity, number of products, and inventory turnover rate.
+    * Visualizes inventory distribution by state and category, and monitors yearly trends to ensure efficient inventory control.
+- Data-Driven Insights:
+    * Utilizes a rich dataset including order details, customer information, and financial metrics to provide actionable insights for strategic decision-making.
+
+
 
 ## License
 These projects are licensed under the MIT License - see the [MIT LICENSE](LICENSE) file for details.
