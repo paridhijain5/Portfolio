@@ -67,7 +67,13 @@ Explore my data analyst portfolio showcasing projects in data manipulatisuon, vi
 * Insights: Addressed data redundancy, update, deletion, and insertion anomalies, ensuring efficient data management, scalability, and improved reporting capabilities.
 
 
-11. [Power BI Report- Employee Data Analytics Dashboard](https://github.com/paridhijain5/Portfolio/tree/main/Power%20BI%20Reports/Employee%20Data%20Analytics%20Dashboard)
+10. [Churn Prediction Model](https://github.com/paridhijain5/Portfolio/tree/main/Churn%20Prediction%20Model)
+* Developed a machine learning model to predict customer churn using the Telco Customer Churn dataset.
+* Achieved an accuracy of 79.35% and a ROC AUC score of 0.84, identifying key churn factors like TotalCharges, MonthlyCharges, Tenure, and Contract.
+* Provided actionable insights and recommendations to target high-risk customers, promote long-term contracts, and improve services to reduce churn.
+
+
+12. [Power BI Report- Employee Data Analytics Dashboard](https://github.com/paridhijain5/Portfolio/tree/main/Power%20BI%20Reports/Employee%20Data%20Analytics%20Dashboard)
 - Employee Demographics: Provides insights into workforce composition through visualizations of gender, age, ethnicity, education levels, department distribution, tenure, and geographic distribution.
 -  Compensation Analysis: Examines financial aspects of employee compensation, including total and monthly compensation, department-wise compensation breakdown, bonus distribution, and average annual salaries by department.
 - Key Insights: Highlights include:
@@ -77,7 +83,7 @@ Explore my data analyst portfolio showcasing projects in data manipulatisuon, vi
 - Interactive Features: Includes filters for detailed analysis by demographics and regions, enhancing the ability to drill down into specific data points.
 
 
-11. [Power BI Report- Walmart Analysis Dashboard](https://github.com/paridhijain5/Portfolio/tree/main/Power%20BI%20Reports/Walmart%20Analysis%20Dashboard)
+12. [Power BI Report- Walmart Analysis Dashboard](https://github.com/paridhijain5/Portfolio/tree/main/Power%20BI%20Reports/Walmart%20Analysis%20Dashboard)
 - Comprehensive Sales Insights:
     * Displays total sales, average order value, and sales growth.
     * Visualizes sales distribution by state and trends over time, highlighting key categories and top-selling products.
