@@ -13,7 +13,7 @@ This project aims to build a machine learning model to predict customer churn us
 
 
 ### Data Source
-The dataset used for this project is the Telco Customer Churn dataset, which includes information on customer demographics, account information, and services used.
+The dataset used for this project is the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) from kaggle, which includes information on customer demographics, account information, and services used.
 
 
 ### Project Steps
@@ -40,7 +40,10 @@ The dataset used for this project is the Telco Customer Churn dataset, which inc
 The churn prediction model offers valuable insights into customer behavior, enabling businesses to implement targeted strategies for reducing churn. Regular updates to the model and continuous customer feedback are essential for maintaining its effectiveness.
 
 
+[Churn Prediction Model file](https://github.com/paridhijain5/Portfolio/blob/main/Churn%20Prediction%20Model/Churn%20Prediction.ipynb)
+
+
 
 ## License
-
+This project is licensed under the MIT License: see the [MIT License](https://github.com/paridhijain5/Portfolio/blob/main/LICENSE) file details here.
 
