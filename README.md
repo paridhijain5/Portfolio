@@ -57,9 +57,17 @@ Explore my data analyst portfolio showcasing projects in data manipulatisuon, vi
   1) Data Processing: Handled missing values, encoded 10+ categorical features, and scaled 20+ numerical features.
   2) Model Performance: Trained Random Forest classifier with 100 trees, achieving an ROC AUC score of 0.85 on the validation set.
   3) Predictions: Generated default probabilities for 109,435 loans in the test set, aiding precise financial decision-making.
+ 
+
+9. [Manage Data for an Online Grocer Using MySQL Workbench on Coursera](https://github.com/paridhijain5/Portfolio/tree/main/Manage%20Data%20for%20an%20Online%20Grocer%20Using%20MySQL%20Workbench)
+* Designed a scalable relational database for Greenspot Grocer, transitioning from a flat spreadsheet to a normalized structure to support business growth.
+* Key Deliverables:
+     * Database Schema: Created in MySQL Workbench, including tables for items, vendors, customers, stock, and sales with primary and foreign keys.
+     * SQL Scripts: For creating tables, loading sample data, and executing JOIN queries to test the design.
+* Insights: Addressed data redundancy, update, deletion, and insertion anomalies, ensuring efficient data management, scalability, and improved reporting capabilities.
 
 
-9. [Power BI Report- Employee Data Analytics Dashboard](https://github.com/paridhijain5/Portfolio/tree/main/Power%20BI%20Reports/Employee%20Data%20Analytics%20Dashboard)
+11. [Power BI Report- Employee Data Analytics Dashboard](https://github.com/paridhijain5/Portfolio/tree/main/Power%20BI%20Reports/Employee%20Data%20Analytics%20Dashboard)
 - Employee Demographics: Provides insights into workforce composition through visualizations of gender, age, ethnicity, education levels, department distribution, tenure, and geographic distribution.
 -  Compensation Analysis: Examines financial aspects of employee compensation, including total and monthly compensation, department-wise compensation breakdown, bonus distribution, and average annual salaries by department.
 - Key Insights: Highlights include:
@@ -69,7 +77,7 @@ Explore my data analyst portfolio showcasing projects in data manipulatisuon, vi
 - Interactive Features: Includes filters for detailed analysis by demographics and regions, enhancing the ability to drill down into specific data points.
 
 
-10. [Power BI Report- Walmart Analysis Dashboard](https://github.com/paridhijain5/Portfolio/tree/main/Power%20BI%20Reports/Walmart%20Analysis%20Dashboard)
+11. [Power BI Report- Walmart Analysis Dashboard](https://github.com/paridhijain5/Portfolio/tree/main/Power%20BI%20Reports/Walmart%20Analysis%20Dashboard)
 - Comprehensive Sales Insights:
     * Displays total sales, average order value, and sales growth.
     * Visualizes sales distribution by state and trends over time, highlighting key categories and top-selling products.
