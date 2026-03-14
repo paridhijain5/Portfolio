@@ -28,6 +28,7 @@ Loan_Status
 
 Dataset: 
 
+
 ### Project Workflow
 The project follows a standard machine learning pipeline:
 
@@ -60,9 +61,10 @@ The model performance was evaluated using:
 * Confusion Matrix
 * Classification Report
 
+
 ### Model Performance
 The Logistic Regression model achieved:
-###### Accuracy: ~78.8%
+#### Accuracy: ~78.8%
 
 Evaluation metrics used:
 * Accuracy Score
@@ -72,6 +74,7 @@ Evaluation metrics used:
 * Confusion Matrix
 
 The model performs well in identifying approved loans but shows slightly lower performance when predicting rejected applications.
+
 
 ### Key Insights
 * Credit History is the most important factor influencing loan approval.
@@ -89,10 +92,105 @@ The model performs well in identifying approved loans but shows slightly lower p
 * Scikit-learn
 * Jupyter Notebook
 
-### Certificate of Completion
+file
 
 
-### License
+## II. COVID-19 Data Analysis (EDA) using Python
+
+### Project Overview
+This project performs Exploratory Data Analysis (EDA) on a global COVID-19 dataset to understand trends in infection spread, mortality rates, and socio-economic indicators across continents.
+Using Python data analysis libraries, the dataset was cleaned, transformed, and analyzed to identify relationships between COVID-19 cases, deaths, GDP per capita, and Human Development Index (HDI).
+The analysis highlights how population size, healthcare infrastructure, and economic development influence pandemic outcomes.
+
+### Objectives
+* Understand the global distribution of COVID-19 cases and deaths.
+* Analyze relationships between economic indicators and pandemic impact.
+* Compare continent-wise infection spread and mortality ratios.
+* Use data visualization and statistical analysis to derive insights.
+
+### Dataset
+Source dataset used in this project:
+
+##### Dataset Link: https://raw.githubusercontent.com/SR1608/Datasets/main/covid-data.csv
+
+The dataset contains global COVID-19 statistics along with socio-economic indicators such as:
+* Continent
+* Location (Country)
+* Date
+* Total Cases
+* Total Deaths
+* GDP per Capita
+* Human Development Index
+
+
+### Tools & Technologies
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+
+
+### Key Steps Performed
+#### 1. Data Understanding
+* Examined dataset structure and statistical summary
+* Identified data types and missing values
+
+#### 2. Data Cleaning
+* Removed duplicate records
+* Handled missing values
+* Filtered relevant analytical features
+
+#### 3. Feature Engineering
+* Created a Mortality Ratio feature:
+###### 𝑀𝑜𝑟𝑡𝑎𝑙𝑖𝑡𝑦 𝑅𝑎𝑡𝑖𝑜 = 𝑇𝑜𝑡𝑎𝑙 𝐷𝑒𝑎𝑡ℎ𝑠 / 𝑇𝑜𝑡𝑎𝑙 𝐶𝑎𝑠𝑒𝑠
+	​
+#### 4. Data Aggregation
+* Aggregated continent-level statistics using groupby analysis
+
+#### 5. Data Visualization
+Several visualizations were created to explore relationships in the data:
+* GDP distribution histogram
+* GDP vs Total Cases scatter plot
+* Multivariate pair plot
+* Continent-wise case comparison
+* Mortality ratio comparison
+* Correlation heatmap
+
+
+### Key Insights
+* North America and Asia recorded the highest number of COVID-19 cases due to large populations and strong testing infrastructure.
+* GDP per capita and Human Development Index show moderate positive correlation, indicating that economic strength contributes to better development indicators.
+* Total cases and deaths show strong correlation, confirming expected pandemic patterns.
+* Asia shows the lowest mortality ratio, suggesting effective containment strategies and healthcare response.
+* Population size and healthcare infrastructure appear to influence pandemic outcomes more than economic status alone.
+
+### Visualizations
+The project includes multiple visualizations such as:
+* Distribution plots
+* Scatter plots
+* Pair plots
+* Bar charts
+* Correlation heatmap
+These visualizations help identify trends and relationships within the dataset.
+
+### Skills Demonstrated
+* Exploratory Data Analysis (EDA)
+* Data Cleaning & Preprocessing
+* Feature Engineering
+* Data Visualization
+* Statistical Interpretation
+* Python Data Analysis
+
+### Conclusion
+This project demonstrates how exploratory data analysis can uncover patterns and relationships in large real-world datasets. The findings emphasize the role of population size, healthcare infrastructure, and policy responses in shaping COVID-19 outcomes across different regions.
+
+
+## Certificate of Completion
+
+
+## License
 
 
 
