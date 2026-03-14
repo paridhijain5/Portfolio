@@ -186,6 +186,8 @@ These visualizations help identify trends and relationships within the dataset.
 ### Conclusion
 This project demonstrates how exploratory data analysis can uncover patterns and relationships in large real-world datasets. The findings emphasize the role of population size, healthcare infrastructure, and policy responses in shaping COVID-19 outcomes across different regions.
 
+[Covid-19 Data Analysis Jupyter Notebook](https://github.com/paridhijain5/Portfolio/blob/main/Data%20Science%20Virtual%20Internship/COVID-19%20Data%20Analysis%20Project.ipynb)
+
 
 ## Certificate
 Here is the [Certficate of Completion]
