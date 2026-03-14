@@ -98,14 +98,15 @@ Explore my data analyst portfolio showcasing projects in data manipulatisuon, vi
 
 
 14. [Data Science Virtual Internship at Internship Studio](https://github.com/paridhijain5/Portfolio/tree/main/Data%20Science%20Virtual%20Internship)
-I. <u>Machine Learning Model Application on Loan Dataset</u>
+
+I. Machine Learning Model Application on Loan Dataset
 - Description: Developed a machine learning model to predict loan approval outcomes using applicant demographic and financial data. Conducted exploratory data analysis (EDA), handled missing values, encoded categorical features, and trained a classification model to identify key factors affecting loan approval.
 - Results:
      * Data Processing: Cleaned and prepared a dataset containing 614 loan records with 13 features, handled missing values, and encoded 7+ categorical variables using label encoding.
      * Exploratory Data Analysis: Used Pandas, Matplotlib, and Seaborn to analyze patterns in applicant income, credit history, education, and loan amount, identifying credit history and income as major factors influencing loan approval.
      * Model Performance: Built a Logistic Regression classification model using Scikit-learn, achieving approximately 78.8% prediction accuracy and evaluated performance using confusion matrix and classification report.
  
-II. <u>Covid - 19 Data Analysis Project using Python</u>
+II. Covid - 19 Data Analysis Project using Python
 - Description: Conducted exploratory data analysis on a global COVID-19 dataset to understand infection trends, mortality rates, and socio-economic factors across continents using Python data analysis libraries.
 - Results:
      * Data Processing: Cleaned and prepared the dataset by handling missing values, removing duplicates, and filtering 7 key analytical features including cases, deaths, GDP per capita, and Human Development Index.
