@@ -26,7 +26,7 @@ Loan_Status
 * Y → Loan Approved
 * N → Loan Rejected
 
-Dataset: 
+Dataset: [Loan Dataset](https://github.com/paridhijain5/Portfolio/blob/main/Data%20Science%20Virtual%20Internship/loan_data_set.csv)
 
 
 ### Project Workflow
@@ -187,8 +187,8 @@ These visualizations help identify trends and relationships within the dataset.
 This project demonstrates how exploratory data analysis can uncover patterns and relationships in large real-world datasets. The findings emphasize the role of population size, healthcare infrastructure, and policy responses in shaping COVID-19 outcomes across different regions.
 
 
-## Certificate of Completion
-
+## Certificate
+Here is the [Certficate of Completion]
 
 ## License
 
