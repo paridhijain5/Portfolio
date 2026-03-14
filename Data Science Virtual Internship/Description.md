@@ -190,7 +190,7 @@ This project demonstrates how exploratory data analysis can uncover patterns and
 
 
 ## Certificate
-Here is the [Certficate of Completion]
+Here is the [Certficate of Internship Completion](https://github.com/paridhijain5/Portfolio/blob/main/Data%20Science%20Virtual%20Internship/Paridhi%20Jain%20-%20Data%20Science%20Internship%20-%20Internship.pdf)
 
 ## License
 
