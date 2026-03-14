@@ -92,7 +92,7 @@ The model performs well in identifying approved loans but shows slightly lower p
 * Scikit-learn
 * Jupyter Notebook
 
-file
+[Machine Learning Model Application on Loan Dataset Jupyter Notebook](https://github.com/paridhijain5/Portfolio/blob/main/Data%20Science%20Virtual%20Internship/Machine%20learning%20model%20application%20on%20loan%20data%20set.ipynb)
 
 
 ## II. COVID-19 Data Analysis (EDA) using Python
@@ -144,7 +144,7 @@ The dataset contains global COVID-19 statistics along with socio-economic indica
 
 #### 3. Feature Engineering
 * Created a Mortality Ratio feature:
-###### 𝑀𝑜𝑟𝑡𝑎𝑙𝑖𝑡𝑦 𝑅𝑎𝑡𝑖𝑜 = 𝑇𝑜𝑡𝑎𝑙 𝐷𝑒𝑎𝑡ℎ𝑠 / 𝑇𝑜𝑡𝑎𝑙 𝐶𝑎𝑠𝑒𝑠
+###### Mortality Ratio = Total Deaths / Total Cases
 	​
 #### 4. Data Aggregation
 * Aggregated continent-level statistics using groupby analysis
