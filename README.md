@@ -83,7 +83,7 @@ Explore my data analyst portfolio showcasing projects in data manipulatisuon, vi
 - Interactive Features: Includes filters for detailed analysis by demographics and regions, enhancing the ability to drill down into specific data points.
 
 
-12. [Power BI Report- Walmart Analysis Dashboard](https://github.com/paridhijain5/Portfolio/tree/main/Power%20BI%20Reports/Walmart%20Analysis%20Dashboard)
+13. [Power BI Report- Walmart Analysis Dashboard](https://github.com/paridhijain5/Portfolio/tree/main/Power%20BI%20Reports/Walmart%20Analysis%20Dashboard)
 - Comprehensive Sales Insights:
     * Displays total sales, average order value, and sales growth.
     * Visualizes sales distribution by state and trends over time, highlighting key categories and top-selling products.
@@ -96,6 +96,13 @@ Explore my data analyst portfolio showcasing projects in data manipulatisuon, vi
 - Data-Driven Insights:
     * Utilizes a rich dataset including order details, customer information, and financial metrics to provide actionable insights for strategic decision-making.
 
+
+14. [Data Science Virtual Internship at Internship Studio](https://github.com/paridhijain5/Portfolio/tree/main/Data%20Science%20Virtual%20Internship)
+- Description: Conducted exploratory data analysis on a global COVID-19 dataset to understand infection trends, mortality rates, and socio-economic factors across continents using Python data analysis libraries.
+- Results:
+     * Data Processing: Cleaned and prepared the dataset by handling missing values, removing duplicates, and filtering 7 key analytical features including cases, deaths, GDP per capita, and Human Development Index.
+     * Feature Engineering: Created a mortality ratio feature (deaths / total cases) and performed continent-level aggregation to compare pandemic severity across 6 continents.
+     * Data Visualization & Insights: Built 6+ visualizations (histogram, scatter plot, pair plot, bar charts, correlation heatmap) using Pandas, Matplotlib, and Seaborn to identify relationships between COVID cases, economic indicators, and mortality trends.
 
 
 ## License
