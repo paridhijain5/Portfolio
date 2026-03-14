@@ -193,4 +193,4 @@ This project demonstrates how exploratory data analysis can uncover patterns and
 Here is the [Certficate of Internship Completion](https://github.com/paridhijain5/Portfolio/blob/main/Data%20Science%20Virtual%20Internship/Paridhi%20Jain%20-%20Data%20Science%20Internship%20-%20Internship.pdf)
 
 ## License
-This project is licensed under the MIT License: see the MIT License file details here.
+This project is licensed under the MIT License: see the [MIT License](https://github.com/paridhijain5/Portfolio/blob/main/LICENSE) file details here.
