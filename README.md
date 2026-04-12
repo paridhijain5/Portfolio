@@ -114,5 +114,9 @@ II. Covid - 19 Data Analysis Project using Python
      * Data Visualization & Insights: Built 6+ visualizations (histogram, scatter plot, pair plot, bar charts, correlation heatmap) using Pandas, Matplotlib, and Seaborn to identify relationships between COVID cases, economic indicators, and mortality trends.
 
 
+### LinkedIn:
+https://www.linkedin.com/in/paridhi-jain-5a72393a0/
+
+
 ## License
 These projects are licensed under the MIT License - see the [MIT LICENSE](LICENSE) file for details.
