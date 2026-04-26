@@ -7,13 +7,13 @@ Explore my data analyst portfolio showcasing projects in data manipulatisuon, vi
 - **Key Points** : Data Collection and Preprocessing, Clustering Algorithms, Insights and Visualization, and Recommendations
 - **Impact** : Implemented personalized marketing strategies, resulting in a 20% increase in sales conversion rates.
 
-
+---
 2. [Accenture North America's Data Analytics and Visualization on Forage](https://github.com/paridhijain5/Portfolio/tree/main/Accenture%20North%20America%20Data%20Analytics%20and%20Visualization%20Job%20Simulation)
 - Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
 - Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
 - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
 
-
+---
 3. [Tata Group's Data Visualisation: Empowering Business with Effective Insights on Forage](https://github.com/paridhijain5/Portfolio/tree/main/Tata%20Data%20Visualization%20Job%20Simulation)
 - Completed a simulation involving creating data visualizations for Tata Consultancy Services
 - Prepared questions for a meeting with client senior leadership
@@ -112,6 +112,33 @@ II. Covid - 19 Data Analysis Project using Python
      * Data Processing: Cleaned and prepared the dataset by handling missing values, removing duplicates, and filtering 7 key analytical features including cases, deaths, GDP per capita, and Human Development Index.
      * Feature Engineering: Created a mortality ratio feature (deaths / total cases) and performed continent-level aggregation to compare pandemic severity across 6 continents.
      * Data Visualization & Insights: Built 6+ visualizations (histogram, scatter plot, pair plot, bar charts, correlation heatmap) using Pandas, Matplotlib, and Seaborn to identify relationships between COVID cases, economic indicators, and mortality trends.
+
+
+15. [Trader Performance vs Market Sentiment — Summary]
+- Objective: The goal of this analysis is to understand how market sentiment (Fear vs Greed) influences trader behavior and performance, and to derive actionable trading strategies.
+- Methodology: We combined Bitcoin Fear/Greed sentiment data with Hyperliquid trading data. After cleaning and aligning both datasets at a daily level, we engineered key metrics such as daily PnL, win rate, trading activity, trade size, and directional bias.
+We then analyzed performance across sentiment regimes and segmented traders based on activity and risk levels.
+- Key Insights:
+               1. **Fear markets are the most profitable**
+                   - Highest average PnL (~209K) and win rate (~41.6%)
+                   - Indicates volatility creates trading opportunities
+               2. **Trading activity is the strongest driver of success**
+                   - High-frequency traders consistently outperform
+                   - Activity matters more than risk alone
+               3. **Risk without activity leads to losses**
+                   - Low activity + high risk results in negative returns
+               4. **Extreme Greed reduces trading efficiency**
+                   - Lower median PnL and inconsistent performance
+- Strategy Recommendations:
+                   - Increase trading activity during Fear markets
+                   - Avoid high-risk trades when trading frequency is low
+                   - Use controlled risk in Greed markets
+                   - Reduce trading in Neutral conditions
+- Bonus: Predictive Modeling
+A Random Forest model was used to predict trader profitability, achieving ~93.75% accuracy. Key predictors included win rate, trade frequency, and positioning behavior.
+- Conclusion:
+Trader performance is not random — it is strongly influenced by market sentiment, participation level, and disciplined risk-taking. Adapting strategies dynamically based on these factors can significantly improve trading outcomes.
+
 
 
 ### LinkedIn:
