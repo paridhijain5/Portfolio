@@ -58,3 +58,8 @@ Analyze how market sentiment (Fear/Greed) impacts trader behavior and performanc
 
 ```bash
 pip install -r requirements.txt
+```
+
+
+## License
+This project is licensed under the MIT License: see the [MIT License](https://github.com/paridhijain5/Portfolio/blob/main/LICENSE) file for details.
