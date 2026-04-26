@@ -19,21 +19,21 @@ Explore my data analyst portfolio showcasing projects in data manipulatisuon, vi
 - Prepared questions for a meeting with client senior leadership
 - Created visuals for data analysis to help executives with effective decision making
 
-
+---
 4. [Pwc Switzerland's Power BI on Forage](https://github.com/paridhijain5/Portfolio/tree/main/Pwc%20Power%20BI%20Job%20Simulation)
 - Completed a job simulation where I strengthened my PowerBI skills to better understand clients and their data visualisation needs.
 - Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.
 - Strong communication skills reflected in the concise and informative email communication with engagement partners, delivering valuable insights and actionable suggestions based on data analysis.
 - Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
 
-
+---
 5. [BCG's Data Science Job Simulation on Forage](https://github.com/paridhijain5/Portfolio/tree/main/BCG%20GAMMA%20Data%20Science%20Job%20Simulation)
 - Completed a customer churn analysis simulation for XYZ Analytics, demonstrating advanced data analytics skills, identifying essential client data and outlining a strategic investigation approach.
 - Conducted efficient data analysis using Python, including Pandas and NumPy. Employed data visualization techniques for insightful trend interpretation.
 - Completed the engineering and optimization of a random forest model, achieving an 85% accuracy rate in predicting customer churn.
 - Completed a concise executive summary for the Associate Director, delivering actionable insights for informed decision-making based on the analysis.
 
-
+---
 6. [Analyze Data in a Model Car Database with MySql Workbench on Coursera](https://github.com/paridhijain5/Portfolio/tree/main/Analyze%20Data%20in%20a%20Model%20Car%20Database%20with%20MySql%20Workbench)
 - Description: This project involved comprehensive exploratory data analysis (EDA) on the Mint Classics dataset to derive valuable business insights. Key areas of focus included customer behavior, product sales trends, and warehouse performance.
 - Key Insights:
@@ -42,7 +42,7 @@ Explore my data analyst portfolio showcasing projects in data manipulatisuon, vi
   3) Warehouse Efficiency: Highlighted fulfillment delays, especially in Warehouse D, leading to recommendations for operational improvements.
   4) Fulfillment Times: Evaluated and compared average fulfillment times across warehouses, identifying areas needing efficiency boosts.
 
-
+---
 7. [Data Science Challenge on Coursera](https://hub.labs.coursera.org:443/connect/sharedvzjlxbjb?forceRefresh=false&path=%2Fnotebooks%2FChurnPrediction.ipynb&isLabVersioning=file-prep)
 - Description: Developed a machine learning model to predict subscriber churn for a video streaming service.
 - Results:
@@ -50,7 +50,7 @@ Explore my data analyst portfolio showcasing projects in data manipulatisuon, vi
   2) Trained a RandomForest model with RandomizedSearchCV, achieving a ROC AUC score of 0.7302.
   3) Predicted churn probabilities for test data and prepared the submission file
 
-
+---
 8. [Data Science Coding Challenge: Loan Default Prediction on Coursera](https://hub.labs.coursera.org:443/connect/sharedpqigtarq?forceRefresh=false&path=%2Fnotebooks%2FLoanDefaultPrediction.ipynb&isLabVersioning=file-prep)
 - Description: Developed a machine learning model to predict loan defaults using historical financial data. Preprocessed data, engineered features, and trained models to optimize predictions.
 - Results:
@@ -58,7 +58,7 @@ Explore my data analyst portfolio showcasing projects in data manipulatisuon, vi
   2) Model Performance: Trained Random Forest classifier with 100 trees, achieving an ROC AUC score of 0.85 on the validation set.
   3) Predictions: Generated default probabilities for 109,435 loans in the test set, aiding precise financial decision-making.
  
-
+---
 9. [Manage Data for an Online Grocer Using MySQL Workbench on Coursera](https://github.com/paridhijain5/Portfolio/tree/main/Manage%20Data%20for%20an%20Online%20Grocer%20Using%20MySQL%20Workbench)
 * Designed a scalable relational database for Greenspot Grocer, transitioning from a flat spreadsheet to a normalized structure to support business growth.
 * Key Deliverables:
@@ -66,13 +66,13 @@ Explore my data analyst portfolio showcasing projects in data manipulatisuon, vi
      * SQL Scripts: For creating tables, loading sample data, and executing JOIN queries to test the design.
 * Insights: Addressed data redundancy, update, deletion, and insertion anomalies, ensuring efficient data management, scalability, and improved reporting capabilities.
 
-
+---
 10. [Churn Prediction Model](https://github.com/paridhijain5/Portfolio/tree/main/Churn%20Prediction%20Model)
 * Developed a machine learning model to predict customer churn using the Telco Customer Churn dataset.
 * Achieved an accuracy of 79.35% and a ROC AUC score of 0.84, identifying key churn factors like TotalCharges, MonthlyCharges, Tenure, and Contract.
 * Provided actionable insights and recommendations to target high-risk customers, promote long-term contracts, and improve services to reduce churn.
 
-
+---
 12. [Power BI Report- Employee Data Analytics Dashboard](https://github.com/paridhijain5/Portfolio/tree/main/Power%20BI%20Reports/Employee%20Data%20Analytics%20Dashboard)
 - Employee Demographics: Provides insights into workforce composition through visualizations of gender, age, ethnicity, education levels, department distribution, tenure, and geographic distribution.
 -  Compensation Analysis: Examines financial aspects of employee compensation, including total and monthly compensation, department-wise compensation breakdown, bonus distribution, and average annual salaries by department.
@@ -82,7 +82,7 @@ Explore my data analyst portfolio showcasing projects in data manipulatisuon, vi
    3) Total compensation paid to employees is 109.32M.
 - Interactive Features: Includes filters for detailed analysis by demographics and regions, enhancing the ability to drill down into specific data points.
 
-
+---
 13. [Power BI Report- Walmart Analysis Dashboard](https://github.com/paridhijain5/Portfolio/tree/main/Power%20BI%20Reports/Walmart%20Analysis%20Dashboard)
 - Comprehensive Sales Insights:
     * Displays total sales, average order value, and sales growth.
@@ -96,7 +96,7 @@ Explore my data analyst portfolio showcasing projects in data manipulatisuon, vi
 - Data-Driven Insights:
     * Utilizes a rich dataset including order details, customer information, and financial metrics to provide actionable insights for strategic decision-making.
 
-
+---
 14. [Data Science Virtual Internship at Internship Studio](https://github.com/paridhijain5/Portfolio/tree/main/Data%20Science%20Virtual%20Internship)
 
 I. Machine Learning Model Application on Loan Dataset
@@ -113,37 +113,37 @@ II. Covid - 19 Data Analysis Project using Python
      * Feature Engineering: Created a mortality ratio feature (deaths / total cases) and performed continent-level aggregation to compare pandemic severity across 6 continents.
      * Data Visualization & Insights: Built 6+ visualizations (histogram, scatter plot, pair plot, bar charts, correlation heatmap) using Pandas, Matplotlib, and Seaborn to identify relationships between COVID cases, economic indicators, and mortality trends.
 
-
-15. [Trader Performance vs Market Sentiment — Summary]
+---
+15. [Trader Performance vs Market Sentiment — Summary](https://github.com/paridhijain5/Portfolio/tree/main/Trader%20Performance%20vs%20Market%20Sentiment%20Analysis)
 - Objective: The goal of this analysis is to understand how market sentiment (Fear vs Greed) influences trader behavior and performance, and to derive actionable trading strategies.
 - Methodology: We combined Bitcoin Fear/Greed sentiment data with Hyperliquid trading data. After cleaning and aligning both datasets at a daily level, we engineered key metrics such as daily PnL, win rate, trading activity, trade size, and directional bias.
 We then analyzed performance across sentiment regimes and segmented traders based on activity and risk levels.
 - Key Insights:
-               1. **Fear markets are the most profitable**
-                   - Highest average PnL (~209K) and win rate (~41.6%)
-                   - Indicates volatility creates trading opportunities
-               2. **Trading activity is the strongest driver of success**
-                   - High-frequency traders consistently outperform
-                   - Activity matters more than risk alone
-               3. **Risk without activity leads to losses**
-                   - Low activity + high risk results in negative returns
-               4. **Extreme Greed reduces trading efficiency**
-                   - Lower median PnL and inconsistent performance
+  1. **Fear markets are the most profitable**
+     * Highest average PnL (~209K) and win rate (~41.6%)
+     * Indicates volatility creates trading opportunities
+  2. **Trading activity is the strongest driver of success**
+     * High-frequency traders consistently outperform
+     * Activity matters more than risk alone
+  3. **Risk without activity leads to losses**
+     * Low activity + high risk results in negative returns
+  4. **Extreme Greed reduces trading efficiency**
+     * Lower median PnL and inconsistent performance
 - Strategy Recommendations:
-                   - Increase trading activity during Fear markets
-                   - Avoid high-risk trades when trading frequency is low
-                   - Use controlled risk in Greed markets
-                   - Reduce trading in Neutral conditions
+  * Increase trading activity during Fear markets
+  * Avoid high-risk trades when trading frequency is low
+  * Use controlled risk in Greed markets
+  * Reduce trading in Neutral conditions
 - Bonus: Predictive Modeling
 A Random Forest model was used to predict trader profitability, achieving ~93.75% accuracy. Key predictors included win rate, trade frequency, and positioning behavior.
 - Conclusion:
 Trader performance is not random — it is strongly influenced by market sentiment, participation level, and disciplined risk-taking. Adapting strategies dynamically based on these factors can significantly improve trading outcomes.
 
 
-
+---
 ### LinkedIn:
 https://www.linkedin.com/in/paridhi-jain-5a72393a0/
 
-
+---
 ## License
 These projects are licensed under the MIT License - see the [MIT LICENSE](LICENSE) file for details.
