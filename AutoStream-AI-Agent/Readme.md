@@ -1,6 +1,6 @@
-# AutoStream AI Agent 🚀
+# <u>AutoStream AI Agent</u>
 
-## 📌 Project Overview
+## Project Overview
 
 This project is a Conversational AI Agent built for a fictional SaaS product **AutoStream**, which provides automated video editing tools for content creators.
 
@@ -13,7 +13,7 @@ The agent can:
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 * Python 3
 * LangChain
@@ -22,7 +22,7 @@ The agent can:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -58,7 +58,7 @@ python app.py
 
 ---
 
-## 🧠 Architecture Explanation
+## Architecture Explanation
 
 This project uses a conversational AI agent built using Python and LangChain. The system follows a Retrieval-Augmented Generation (RAG) approach by storing product-related data in a local JSON file, which is dynamically accessed to answer user queries accurately.
 
@@ -70,7 +70,7 @@ This design ensures that tool execution occurs only after complete data collecti
 
 ---
 
-## 📲 WhatsApp Integration (Concept)
+## WhatsApp Integration (Concept)
 
 To integrate this AI agent with WhatsApp, we can use the WhatsApp Business API along with webhooks.
 
@@ -80,7 +80,7 @@ Platforms like Twilio or Meta’s Cloud API can be used to manage WhatsApp commu
 
 ---
 
-## 🎥 Demo
+## Demo
 
 The demo should show:
 
@@ -88,3 +88,6 @@ The demo should show:
 * High-intent detection
 * Lead data collection
 * Successful lead capture
+
+**Demo Video**
+Watch the demo here: 
