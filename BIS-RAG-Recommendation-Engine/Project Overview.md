@@ -71,6 +71,11 @@ streamlit run app.py
 
 python inference.py --input data/public_test_set.json --output outputs/results.json
 
+
+## Demo Video
+[Watch Demo](your-link)
+
+
 ## Hackathon
 
 [Bureau of Indian Standards x Sigma Squad AI Hackathon](https://unstop.com/hackathons/bureau-of-indian-standards-x-sigma-squad-ai-hackathon-indian-institute-of-technology-iit-tirupati-1679162)
