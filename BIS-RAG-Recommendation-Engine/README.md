@@ -10,6 +10,8 @@ Built for the Bureau of Indian Standards x Sigma Squad AI Hackathon.
 
 ---
 
+# Screenshots
+<p align="left">![Homepage]()</p><p align="right">![Recommendations]()</p>
 # Features
 
 * Semantic BIS standard retrieval
@@ -54,6 +56,7 @@ streamlit run app.py
 
 python inference.py --input data/public_test_set.json --output outputs/results.json
 
+---
 
 ## Demo Video
 [Watch Demo](your-link)
