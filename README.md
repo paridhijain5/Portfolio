@@ -139,6 +139,15 @@ A Random Forest model was used to predict trader profitability, achieving ~93.75
 - Conclusion:
 Trader performance is not random — it is strongly influenced by market sentiment, participation level, and disciplined risk-taking. Adapting strategies dynamically based on these factors can significantly improve trading outcomes.
 
+---
+16. [BIS Standard Recommendation Engine (RAG-Based AI System)](https://github.com/paridhijain5/Portfolio/tree/main/BIS-RAG-Recommendation-Engine)
+* Developed an AI-powered Retrieval-Augmented Generation (RAG) system for automating Bureau of Indian Standards (BIS) discovery for Micro and Small Enterprises (MSEs).
+* Built a semantic search pipeline using Sentence Transformers and FAISS vector database for intelligent BIS standard recommendations from product descriptions.
+* Implemented end-to-end workflow including PDF data extraction, preprocessing, embedding generation, vector indexing, retrieval, and evaluation pipeline.
+* Designed a Streamlit-based interactive web interface for real-time BIS standard recommendations.
+* Achieved strong retrieval performance with 90% Hit Rate @3, 0.775 MRR @5, and low-latency inference (~0.22 sec average response time).
+* Tech Stack: Python, FAISS, Sentence Transformers, Streamlit, PyMuPDF, NumPy.
+
 
 ---
 ### LinkedIn:
