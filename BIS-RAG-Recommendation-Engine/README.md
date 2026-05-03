@@ -1,4 +1,4 @@
-<p align="center">Built for Bureau of Indian Standards x Sigma Squad AI Hackathon</p>
+<p align="center"><ins>Built for Bureau of Indian Standards x Sigma Squad AI Hackathon</ins></p>
 
 ![](https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/bis_rag_architecture.png)
 
