@@ -73,4 +73,8 @@ python inference.py --input data/public_test_set.json --output outputs/results.j
 
 ## Hackathon
 
-Bureau of Indian Standards x Sigma Squad AI Hackathon
+[Bureau of Indian Standards x Sigma Squad AI Hackathon](https://unstop.com/hackathons/bureau-of-indian-standards-x-sigma-squad-ai-hackathon-indian-institute-of-technology-iit-tirupati-1679162)
+
+
+## License
+These projects are licensed under the MIT License - see the [MIT LICENSE](LICENSE) file for details.
