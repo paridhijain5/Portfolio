@@ -1,3 +1,6 @@
+<center>Built for Bureau of Indian Standards x Sigma Squad AI Hackathon</center>
+
+
 # BIS Standard Recommendation Engine
 
 AI-powered Retrieval-Augmented Generation (RAG) system for automating BIS standard discovery for Indian Micro and Small Enterprises (MSEs).
