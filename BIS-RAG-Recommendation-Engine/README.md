@@ -53,3 +53,7 @@ streamlit run app.py
 ## Run inference
 
 python inference.py --input data/public_test_set.json --output outputs/results.json
+
+
+## Demo Video
+[Watch Demo](your-link)
