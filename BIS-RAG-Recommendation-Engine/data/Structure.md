@@ -1,6 +1,6 @@
 ```bash
 data/
-|
+│
 ├── standards.json
 ├── public_test_set.json
 ├── sample_output.json
