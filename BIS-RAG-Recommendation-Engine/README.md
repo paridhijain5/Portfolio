@@ -14,7 +14,21 @@ Built for the Bureau of Indian Standards x Sigma Squad AI Hackathon.
 
 | Homepage Interface | Recommendations |
 | :---: | :---: |
-| ![Homepage Interface](https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/homepage_interface.png) | ![Recommendations](https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/recommendation_results_1.png)[](https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/recommendation_results_2.png) |
+| ![Homepage Interface](https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/homepage_interface.png) | ![Recommendations](https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/recommendation_results_1.png) |
+
+
+<table>
+  <tr>
+    <td width="55%">
+      <img src="https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/homepage_interface.png" width="100%">
+    </td>
+    <td width="45%">
+      <img src="https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/recommendation_results_1.png" width="100%"><br><br>
+      <img src="https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/recommendation_results_2.png" width="100%">
+    </td>
+  </tr>
+</table>
+
 
 
 
