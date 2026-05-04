@@ -11,7 +11,7 @@ Built for the Bureau of Indian Standards x Sigma Squad AI Hackathon.
 ---
 
 # Screenshots
-<p align="left">![Homepage]()</p><p align="right">![Recommendations]()</p>
+<p align="left">![Homepage Interface](https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/homepage_interface.png)</p> <p align="right">![Recommendations]()</p>
 # Features
 
 * Semantic BIS standard retrieval
