@@ -23,7 +23,6 @@ Built for the Bureau of Indian Standards x Sigma Squad AI Hackathon.
       <h3>Homepage Interface</h3>
       <img src="https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/homepage_interface.png" width="100%">
     </td>
-
     <td width="45%" align="center">
       <h3>Recommendation Results</h3>
       <img src="https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/recommendation_results_1.png" width="100%">
