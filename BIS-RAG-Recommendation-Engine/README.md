@@ -21,20 +21,38 @@ Built for the Bureau of Indian Standards x Sigma Squad AI Hackathon.
   <tr>
     <!-- Left column: one image that spans two rows -->
     <td rowspan="2">
-      <img src="[your-left-image.png](https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/homepage_interface.png)" width="400" alt="Home Interface">
+      <img src="https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/homepage_interface.png" width="400" alt="Home Interface">
     </td>
     <!-- Right column, Top: the first small image -->
     <td>
-      <img src="[your-right-top.png](https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/recommendation_results_1.png)" width="200" alt="Recommendations">
+      <img src="https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/recommendation_results_1.png" width="200" alt="Recommendations">
     </td>
   </tr>
   <tr>
     <!-- Right column, Bottom: the second small image -->
     <td>
-      <img src="[your-right-bottom.png](https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/recommendation_results_2.png)" width="200">
+      <img src="https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/recommendation_results_2.png" width="200">
     </td>
   </tr>
 </table>
+
+
+
+<table>
+  <tr>
+    <!-- Left Column: One Image -->
+    <td>
+      <img src="https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/homepage_interface.png" width="400" alt="Large Image Description">
+    </td>
+    <!-- Right Column: Two Stacked Images -->
+    <td>
+      <img src="https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/recommendation_results_1.png" width="200" alt="Top Image"><br>
+      <img src="https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/recommendation_results_2.png" width="200" alt="Bottom Image">
+    </td>
+  </tr>
+</table>
+
+
 
 
 # Features
