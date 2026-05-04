@@ -17,16 +17,18 @@ Built for the Bureau of Indian Standards x Sigma Squad AI Hackathon.
 | ![Homepage Interface](https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/homepage_interface.png) | ![Recommendations](https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/recommendation_results_1.png) |
 
 
+<h2>Screenshots</h2>
+
 <table>
   <tr>
     <td width="55%" align="center">
       <h3>Homepage Interface</h3>
-      <img src="https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/homepage_interface.png" width="100%">
+      <img src="https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/homepage_interface.png?raw=true" width="100%">
     </td>
     <td width="45%" align="center">
-      <h3>Recommendation Results</h3>
-      <img src="https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/recommendation_results_1.png" width="100%">
-      <img src="https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/recommendation_results_2.png" width="100%">
+      <h3>Recommendations</h3>
+      <img src="https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/recommendation_results_1.png?raw=true" width="100%">
+      <img src="https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/recommendation_results_2.png?raw=true" width="100%">
     </td>
   </tr>
 </table>
