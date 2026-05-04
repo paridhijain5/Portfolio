@@ -31,7 +31,7 @@ Built for the Bureau of Indian Standards x Sigma Squad AI Hackathon.
   <tr>
     <!-- Right column, Bottom: the second small image -->
     <td>
-      <img src="your-right-bottom.png" width="200" alt="Right Bottom Image">
+      <img src="[your-right-bottom.png](https://github.com/paridhijain5/Portfolio/blob/main/BIS-RAG-Recommendation-Engine/recommendation_results_2.png)" width="200">
     </td>
   </tr>
 </table>
