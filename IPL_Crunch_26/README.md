@@ -23,3 +23,6 @@ Data-driven analysis of IPL match outcomes using ball-by-ball historical data.
 - Analysis Notebook
 - Presentation Deck
 - Supporting Visualizations
+
+## License
+This project is licensed under the MIT License: see the [MIT License](https://github.com/paridhijain5/Portfolio/blob/main/LICENSE) file details here.
